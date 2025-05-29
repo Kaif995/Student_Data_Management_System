@@ -20,7 +20,7 @@ To run this project, you need to have a C++ compiler installed on your machine. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-management-system.git
+   git clone https://github.com/Kaif995/Student_Data_Management_System.git
 
 
   Navigate to the project directory:
